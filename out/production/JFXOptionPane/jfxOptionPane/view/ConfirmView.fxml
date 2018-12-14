@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="131.0" prefWidth="363.0" style="-fx-background-color: #314148;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jfxOptionPane.controller.ConfirmController">
+   <children>
+      <StackPane prefHeight="131.0" prefWidth="363.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" StackPane.alignment="TOP_LEFT">
+               <image>
+                  <Image url="@../image/confirm.png" />
+               </image>
+               <StackPane.margin>
+                  <Insets left="20.0" top="20.0" />
+               </StackPane.margin>
+            </ImageView>
+            <JFXButton alignment="CENTER" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #1A84AC;" text="Sim" textFill="#e4e5e5" StackPane.alignment="BOTTOM_RIGHT">
+               <font>
+                  <Font size="13.0" />
+               </font>
+               <StackPane.margin>
+                  <Insets bottom="15.0" right="15.0" top="10.0" />
+               </StackPane.margin>
+            </JFXButton>
+            <Text fx:id="textContent" fill="#e4e5e5" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="270.13671875" StackPane.alignment="TOP_RIGHT">
+               <font>
+                  <Font size="13.0" />
+               </font>
+               <StackPane.margin>
+                  <Insets bottom="50.0" right="15.0" top="20.0" />
+               </StackPane.margin>
+            </Text>
+            <JFXButton alignment="CENTER" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #E33737;" text="Não" textFill="#e4e5e5" StackPane.alignment="BOTTOM_CENTER">
+               <StackPane.margin>
+                  <Insets bottom="15.0" left="115.0" right="15.0" />
+               </StackPane.margin>
+            </JFXButton>
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,8 @@
+.textFields {
+    -fx-text-fill: #E7E6E8;
+    -fx-padding: 0.333333em 3 0.333333em 3;
+    -fx-prompt-text-fill: #9A999A;
+    -fx-border-radius: 3 3 3 3;
+    -fx-background-radius: 3 3 3 3;
+}
+
