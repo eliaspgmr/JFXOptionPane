@@ -15,13 +15,13 @@
          <children>
             <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" StackPane.alignment="TOP_LEFT">
                <image>
-                  <Image url="@../image/error.png" />
+                  <Image url="@../../image/message.png" />
                </image>
                <StackPane.margin>
                   <Insets left="20.0" top="20.0" />
                </StackPane.margin>
             </ImageView>
-            <JFXButton fx:id="btOkError" onAction="#closeAction" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #1A84AC;" text="OK" textFill="#e4e5e5" StackPane.alignment="BOTTOM_RIGHT">
+            <JFXButton fx:id="btOkMessage" onAction="#closeAction" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #1A84AC;" text="OK" textFill="#e4e5e5" StackPane.alignment="BOTTOM_RIGHT">
                <font>
                   <Font size="13.0" />
                </font>

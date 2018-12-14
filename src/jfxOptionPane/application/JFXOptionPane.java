@@ -46,7 +46,7 @@ public class JFXOptionPane {
         Dados.restart();
         Dados.setMessage(message);
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/MessageView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/MessageView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -61,7 +61,7 @@ public class JFXOptionPane {
         Dados.restart();
         Dados.setMessage(message);
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/MessageView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/MessageView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -78,7 +78,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/ErrorView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/ErrorView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -95,7 +95,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/ErrorView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/ErrorView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -113,7 +113,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/ConfirmView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/ConfirmView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -131,7 +131,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/ConfirmView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/ConfirmView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -151,7 +151,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/InputView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/InputView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -170,7 +170,7 @@ public class JFXOptionPane {
         Dados.setMessage(message);
 
         try {
-            root = FXMLLoader.load(getClass().getResource("../view/InputView.fxml"));
+            root = FXMLLoader.load(getClass().getResource("view/InputView.fxml"));
         } catch (IOException e) {
             e.printStackTrace();
         }

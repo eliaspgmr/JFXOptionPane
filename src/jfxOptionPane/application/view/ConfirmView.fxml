@@ -11,17 +11,17 @@
 
 <AnchorPane prefHeight="131.0" prefWidth="363.0" style="-fx-background-color: #314148;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jfxOptionPane.controller.JFXOPController">
    <children>
-      <StackPane prefHeight="131.0" prefWidth="363.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <StackPane prefHeight="131.0" prefWidth="363.0" stylesheets="@../../css/style.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
             <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true" StackPane.alignment="TOP_LEFT">
                <image>
-                  <Image url="@../image/message.png" />
+                  <Image url="@../../image/confirm.png" />
                </image>
                <StackPane.margin>
                   <Insets left="20.0" top="20.0" />
                </StackPane.margin>
             </ImageView>
-            <JFXButton fx:id="btOkMessage" onAction="#closeAction" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #1A84AC;" text="OK" textFill="#e4e5e5" StackPane.alignment="BOTTOM_RIGHT">
+            <JFXButton fx:id="btYesConfirm" alignment="CENTER" onAction="#yesConfirmAction" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #1A84AC;" text="Sim" textFill="#e4e5e5" StackPane.alignment="BOTTOM_RIGHT">
                <font>
                   <Font size="13.0" />
                </font>
@@ -37,6 +37,11 @@
                   <Insets bottom="50.0" right="15.0" top="20.0" />
                </StackPane.margin>
             </Text>
+            <JFXButton fx:id="btNoConfirm" alignment="CENTER" onAction="#closeAndRestartAction" prefHeight="30.0" prefWidth="70.0" style="-fx-background-color: #E33737;" text="Não" textFill="#e4e5e5" StackPane.alignment="BOTTOM_CENTER">
+               <StackPane.margin>
+                  <Insets bottom="15.0" left="115.0" right="15.0" />
+               </StackPane.margin>
+            </JFXButton>
          </children>
       </StackPane>
    </children>
