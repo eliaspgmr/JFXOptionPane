@@ -31,14 +31,15 @@ public class TestController {
     @FXML
     public void buttonConfirmAction() {
 
-        op.showConfirmDialog("Confirm", "Elias Ferreira!");
-
+        boolean value = op.showConfirmDialog("Elias Ferreira!");
+        System.out.println(value);
     }
 
     @FXML
     public void buttonInputAction() {
 
-        op.showInputDialog("Input", "Seu nome?");
+         String name = op.showInputDialog("Seu nome?");
+         System.out.println(name);
 
     }
 }
