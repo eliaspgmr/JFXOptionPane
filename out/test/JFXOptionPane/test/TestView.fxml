@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="135.0" prefWidth="306.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="test.TestController">
+   <children>
+      <JFXButton fx:id="buttonMessage" layoutX="34.0" layoutY="26.0" onAction="#buttonMessageAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #33aaff;" text="test Message" textFill="#fcf8f8" />
+      <JFXButton fx:id="buttonError" layoutX="178.0" layoutY="26.0" onAction="#buttonErrorAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #33aaff;" text="test Error" textFill="#fcf8f8" />
+      <JFXButton fx:id="buttonConfirm" layoutX="34.0" layoutY="84.0" onAction="#buttonConfirmAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #33aaff;" text="test Confirm" textFill="#fcf8f8" />
+      <JFXButton fx:id="buttonInput" layoutX="178.0" layoutY="84.0" onAction="#buttonInputAction" prefHeight="25.0" prefWidth="95.0" style="-fx-background-color: #33aaff;" text="test Input" textFill="#fcf8f8" />
+   </children>
+</AnchorPane>

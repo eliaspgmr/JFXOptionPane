@@ -7,19 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JFXOptionPane_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JFXOptionPane.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JFXOptionPane.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/JFXOptionPane_jar/JFXOptionPane.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/JFXOptionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/JFXOptionPane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/view/ConfirmView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/view/ErrorView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/view/InputView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/view/MessageView.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/application/JFXOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jfxOptionPane/application/JFXOptionPane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/view/ConfirmView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/jfxOptionPane/application/view/ConfirmView.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/view/ErrorView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/jfxOptionPane/application/view/ErrorView.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/view/InputView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/jfxOptionPane/application/view/InputView.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/view/MessageView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/jfxOptionPane/application/view/MessageView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/ConfirmView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/ConfirmView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/ErrorView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/ErrorView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/InputView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/InputView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/MessageView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/application/view/MessageView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JFXOptionPane/jfxOptionPane/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/test/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/test/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JFXOptionPane/test/TestView.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jfxOptionPane/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test/TestView.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,26 +78,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/JFXOptionPane.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/test/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2204">
-              <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/view/ConfirmView.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-            </state>
-          </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
@@ -146,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/jfxOptionPane/application/JFXOptionPane.java" />
         <option value="$PROJECT_DIR$/src/test/TestController.java" />
         <option value="$PROJECT_DIR$/src/jfxOptionPane/controller/JFXOPController.java" />
+        <option value="$PROJECT_DIR$/Tests/test/TestMain.java" />
       </list>
     </option>
   </component>
@@ -165,6 +158,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,25 +169,12 @@
             </path>
             <path>
               <item name="JFXOptionPane" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JFXOptionPane" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JFXOptionPane" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JFXOptionPane" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jfxOptionPane" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JFXOptionPane" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,8 +186,9 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544829439977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544912547853" />
     <property name="dynamic.classpath" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hover_academic" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -223,8 +206,11 @@
       <recent name="jfxOptionPane.controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\src\sample\view" />
-      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\src\sample" />
+      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\Tests\test" />
+      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\src" />
+      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\out\artifacts" />
+      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\Testes\src" />
+      <recent name="C:\Users\RepublicaDoIngles\IdeaProjects\JFXOptionPane\Test\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,7 +280,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,6 +299,53 @@
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Testes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Testes" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -364,7 +397,7 @@
   <component name="ToolWindowManager">
     <frame x="26" y="6" width="1612" height="876" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21005155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21520619" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -372,7 +405,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -485,14 +518,6 @@
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
     <entry file="file://$PROJECT_DIR$/src/test/TestMain.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/test/TestView.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/controller/MessageController.java" />
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -500,49 +525,27 @@
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/controller/InputController.java" />
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/controller/ConfirmController.java" />
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/controller/ErrorController.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/view/MessageView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/view/InputView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="252" selection-start-line="12" selection-start-column="252" selection-end-line="12" selection-end-column="252" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/view/ErrorView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="220" selection-start-line="11" selection-start-column="220" selection-end-line="11" selection-end-column="220" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,12 +579,40 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jfxOptionPane/application/view/ConfirmView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="171">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test/TestView.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
